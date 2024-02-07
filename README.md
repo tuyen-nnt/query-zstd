@@ -1,2 +1,2 @@
 Check requirements.txt to pip install all required packages.
-This script using Spark to process data.
+This script is using Spark to process data.
